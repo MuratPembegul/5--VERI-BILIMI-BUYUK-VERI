@@ -71,6 +71,10 @@ df.show()
 - [Apache Hadoop Resmi Sitesi](https://hadoop.apache.org/)
 - [Apache Spark Resmi Sitesi](https://spark.apache.org/)
 - [Google BigQuery](https://cloud.google.com/bigquery)
+## Açık Veri Kaynakları
+- [Kaggle Veri Setleri](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [AWS Open Data](https://registry.opendata.aws/)
 
 
 
