@@ -76,5 +76,6 @@ df.show()
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [AWS Open Data](https://registry.opendata.aws/)
 
+# Güncelleme: Büyük Veri Giriş Pyspark Kodları Eklendi.
 
 
