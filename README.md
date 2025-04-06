@@ -77,5 +77,6 @@ df.show()
 - [AWS Open Data](https://registry.opendata.aws/)
 
 # Güncelleme: Büyük Veri Giriş Pyspark Kodları Eklendi.
+# Güncelleme: Büyük Veri Teknolojileri Kodları Eklendi.
 
 
