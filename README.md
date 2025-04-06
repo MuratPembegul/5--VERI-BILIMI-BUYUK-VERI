@@ -78,5 +78,6 @@ df.show()
 
 # Güncelleme: Büyük Veri Giriş Pyspark Kodları Eklendi.
 # Güncelleme: Büyük Veri Teknolojileri Kodları Eklendi.
+# Güncelleme: Dağıtık Veri İşleme Kodları Eklendi.
 
 
