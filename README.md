@@ -81,5 +81,6 @@ df.show()
 # Güncelleme: Dağıtık Veri İşleme Kodları Eklendi.
 # Güncelleme: Gerçek Zamanlı Veri Analizi Kodları Eklendi.
 # Güncelleme: Büyük Veri Depolama Kodları Eklendi.
+# Güncelleme: Veri Akışı İşleme Kodları Eklendi.
 
 
